@@ -1,0 +1,17 @@
+[user]
+	name = Bijoy Sarkar
+	email = bijoys@yahoo-inc.com
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore_global
+[color]
+	ui = auto
+[alias]
+	br = branch --color
+	co = checkout
+	di = diff
+	ci = commit
+	st = status
+	cp = cherry-pick
+[merge]
+	tool = vimdiff
